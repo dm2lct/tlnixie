@@ -1,6 +1,6 @@
 # Schematics and PCB files for the Turmlabor nixie clock kit. 
 
-Feel free, to build your own nixie clock with these files.
+Feel free to build your own nixie clock from it.
 
 Features:
   - IN14 nixie tubes but you can adapt many other nixie tubes even if it would not look great
