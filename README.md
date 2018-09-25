@@ -1,9 +1,9 @@
 # Schematics and PCB files for the Turmlabor nixie clock kit. 
 
-Feel free, to build your one nixie clock with these files.
+Feel free, to build your own nixie clock with these files.
 
 Features:
-  - IN14 nixie tubes
+  - IN14 nixie tubes but you can adapt many other nixie tubes even if it would not look great
   - ESP12e controller so you can make IoT with it and build your own botnet for world domination if you have enough clocks
   - DS3231 RTC for everyone who does not like IoT and does also not want to be enslaved from AI
   - WS2812B under each nixie tube to make them look more fancy
