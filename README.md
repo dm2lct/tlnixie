@@ -1,4 +1,5 @@
 # Schematics and PCB files for the Turmlabor nixie clock kit. 
+# Attention: This is a old, buggy version! See the new design on https://github.com/ludwig1992/Nixieclock_kit
 
 Feel free to build your own nixie clock from it.
 
